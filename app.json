@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f5f8a246-0754-49a6-a7de-6f766553e98b"
+      }
+    },
+    "owner": "ghels"
   }
 }
